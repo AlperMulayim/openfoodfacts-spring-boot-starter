@@ -37,7 +37,7 @@ Mono<ResponseEntity<String>> uploadProductImageUnblocked(ProductImageUploadReque
 
 **mvn clean install** 
 
-check the repositories added  to .md.  **cd ~/.m2** 
+check the repositories added.  **cd ~/.m2** 
 
 Add **openfoodfacts-springboot-starter** dependency  to your spring boot **pom.xml**
 
